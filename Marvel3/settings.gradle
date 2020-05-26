@@ -1,0 +1,2 @@
+rootProject.name='Marvel3'
+include ':app'
